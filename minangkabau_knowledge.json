@@ -1,0 +1,26 @@
+{
+  "sejarah": "Bahasa Minangkabau adalah bahasa daerah yang digunakan oleh masyarakat Minangkabau di Sumatera Barat. Bahasa ini berkembang sejak lama dan memiliki peran penting dalam adat dan budaya Minang.",
+  "dialek": [
+    "Dialek Padang",
+    "Dialek Bukittinggi",
+    "Dialek Payakumbuh"
+  ],
+  "kosakata": {
+    "Apo kaba?": "Apa kabar?",
+    "Urang awak": "Orang kita (sesama Minang)",
+    "Rancak": "Bagus / Cantik",
+    "Ambo": "Saya",
+    "Awak": "Kamu",
+    "sudah": "alah"
+  },
+  "ancaman": [
+    "Dominasi bahasa Indonesia",
+    "Generasi muda jarang menggunakan bahasa Minang",
+    "Kurangnya dokumentasi digital"
+  ],
+  "pelestarian": [
+    "Mengajarkan bahasa Minang di keluarga",
+    "Membuat konten digital berbahasa Minang",
+    "Mendokumentasikan cerita rakyat"
+  ]
+}
